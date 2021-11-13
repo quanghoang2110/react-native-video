@@ -23,7 +23,7 @@
             "email": "me@hamptonmaxwell.com"
         }
     ],
-    "repository": "quanghoang2110/react-native-video-player",
+    "repository": "quanghoang2110/react-native-video",
     "devDependencies": {
         "@react-native-community/eslint-config": "0.0.7",
         "babel-eslint": "10.0.3",
