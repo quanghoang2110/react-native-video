@@ -1,5 +1,5 @@
 {
-    "name": "react-native-video",
+    "name": "@starling-tech/react-native-video",
     "version": "5.2.0",
     "description": "A <Video /> element for react-native",
     "main": "Video.js",
@@ -23,10 +23,7 @@
             "email": "me@hamptonmaxwell.com"
         }
     ],
-    "repository": {
-        "type": "git",
-        "url": "git@github.com:react-native-community/react-native-video.git"
-    },
+    "repository": "quanghoang2110/react-native-video-player",
     "devDependencies": {
         "@react-native-community/eslint-config": "0.0.7",
         "babel-eslint": "10.0.3",
